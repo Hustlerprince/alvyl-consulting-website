@@ -6,7 +6,7 @@ This contains the raw gohugo template data that will generate the website used b
 ## Steps to Generate the files
 
 - Make changes in [this project](https://github.com/alvyl/alvyl-consulting-website).
-- Run `hugo server -D` from this project directory to see the changes. Once you are satisfied with the changes,
+- Run `hugo server -D` from this project directory to see the changes. Once you are satisfied with the cha
 - Remove all files from **public** folder by running `rm -rf public/`.
 The contents of the public folder is not to be pushed as part of this repo. This is because, the contents of the public folder has the static content of the website, whcih is actually managed as part of the [alvyl.github.io project](https://github.com/alvyl/alvyl.github.io). 
 - Raise PR for the changes made in this project repo. 

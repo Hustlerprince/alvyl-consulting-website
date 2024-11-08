@@ -1,2 +1,1 @@
-# Redirect default Netlify subdomain to primary domain
-https://alvyl.netlify.com/* https://www.alvyl.com/:splat 301!
+# Redirect default Netlify subdomain to primary
